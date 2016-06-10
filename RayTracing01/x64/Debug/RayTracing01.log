@@ -1,3 +1,4 @@
 ﻿  main.cpp
+c:\users\bys\documents\visual studio 2015\projects\raytracing01\raytracing01\kd_tree.h(131): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   RayTracing01.vcxproj -> c:\users\bys\documents\visual studio 2015\Projects\RayTracing01\x64\Debug\RayTracing01.exe
   RayTracing01.vcxproj -> c:\users\bys\documents\visual studio 2015\Projects\RayTracing01\x64\Debug\RayTracing01.pdb (Partial PDB)
